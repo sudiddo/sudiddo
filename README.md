@@ -1,13 +1,10 @@
 <!-- Header Wave (animated render with gradient + white text) -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:4AF2D6,100:1F6FEB&height=140&section=header&text=Diddo&fontSize=44&fontAlignY=32&animation=fadeIn&desc=Senior%20Frontend%20Developer&descAlignY=55&fontColor=ffffff&descAlign=50&descAlignY=70&descSize=18)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&center=true&vCenter=true&width=700&lines=Clean+Code+%7C+Scalable+Systems;Design+Consistency+%7C+Attention+to+Detail;Always+Learning+%7C+Always+Improving)](https://git.io/typing-svg)
-
 ## Hi, I’m Diddo 👋
 <p align="center">
-Frontend developer focused on building clean, scalable interfaces with React, Next.js, TypeScript, and Tailwind.  
-I care about maintainability, design systems, accessibility, and performance.
+Frontend developer focused on building clean, scalable interfaces with <br /> React, Next.js, TypeScript, and Tailwind.  
+I care about maintainability, <br />design systems, accessibility, and performance.
 </p>
 
 ---
@@ -84,13 +81,6 @@ Always refining fundamentals and system thinking
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudiddo/sudiddo/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sudiddo/sudiddo/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-<!-- Animated Typing Footer -->
-<p align="center">
-  <a href="https://diddo.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&repeat=true&width=600&lines=Building+useful+interfaces;Polishing+the+details;Learning+every+day" />
-  </a>
 </p>
 
 ---
