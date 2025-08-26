@@ -69,7 +69,7 @@ Always refining fundamentals and system thinking
 
 <!-- Trophy Board -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudiddo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://trophygh.kolioaris.xyz/?username=sudiddo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 <!-- Activity Graph -->
