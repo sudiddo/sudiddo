@@ -1,8 +1,7 @@
 name: Generate contribution snake
 
-# 👇 give the workflow token permission to push commits
 permissions:
-  contents: write
+  contents: write   # ✅ allows push to branches
 
 on:
   schedule:
@@ -28,5 +27,4 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          # using input is fine; the action also falls back to env.GITHUB_TOKEN
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}   # 👈 pass token properly
